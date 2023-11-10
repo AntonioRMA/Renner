@@ -26,7 +26,7 @@ O projeto deve conter ao menos um cenário para cada um dos seguintes métodos d
 	4.1 - Valide o método GET LIST USERS
 	4.2 - Valide o método PATCH 
 
-**  INSTALAÇÃO **
+**INSTALAÇÃO**
 
 Para executar os fontes o projeto deve ser carregado no modo **Import Existing Maven Project** e não é necessária instalação de nenhuma outra dependencia extra. Entretanto é interessante que o ambiente atenda os requisitos mínimos instaldos:
 
@@ -37,7 +37,7 @@ Para executar os fontes o projeto deve ser carregado no modo **Import Existing M
 
 Observação: Caso a aplicação aponte falha de dependencia atualize as dependencias do Maven
 
-** EXECUÇAO **
+**EXECUÇAO**
 
 Os casos de teste foram definidos utlizando padrão BDD sobre a arquitetura do JUNit.
 
@@ -47,7 +47,7 @@ API: \src\main\java\AntonioRodrigues\Automacao\API\Exemplo\ExecuteCucumberAPI.ja
 WEB: \src\main\java\AntonioRodrigues\Automacao\Web\Exemplo\ExecuteCucumber.java
 
 
-** EXTRAS **
+**EXTRAS**
 
 Os cenários de WEB dispõe de um arquivo PDF com os dados, resultado e evidencias de execução.
 
@@ -55,5 +55,6 @@ Estes arquivos podem ser encontrados na pasta raiz do projeto em:
 
 *\Evidencias*
 
-> > *Grato pela oportunidade, Antonio Rodrigues.*
+> > *Grato pela oportunidade,*
+ > > *Antonio Rodrigues.*
 
