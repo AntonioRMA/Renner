@@ -44,6 +44,7 @@ Os casos de teste foram definidos utlizando padrão BDD sobre a arquitetura do J
 Dessa forma, para rodar os testes execute os seguintes arquivos pra cada plataforma alvo:
 
 API: \src\main\java\AntonioRodrigues\Automacao\API\Exemplo\ExecuteCucumberAPI.java
+
 WEB: \src\main\java\AntonioRodrigues\Automacao\Web\Exemplo\ExecuteCucumber.java
 
 
