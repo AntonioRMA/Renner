@@ -37,7 +37,7 @@ Para executar os fontes o projeto deve ser carregado no modo **Import Existing M
 
 Observação: Caso a aplicação aponte falha de dependencia atualize as dependencias do Maven
 
-**EXECUÇAO**
+**EXECUÇÃO**
 
 Os casos de teste foram definidos utlizando padrão BDD sobre a arquitetura do JUNit.
 
